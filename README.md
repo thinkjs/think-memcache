@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-memcache.
+
 # think-memcache
 [![Build Status](https://travis-ci.org/thinkjs/think-memcache.svg?branch=master)](https://travis-ci.org/thinkjs/think-memcache)
 [![Coverage Status](https://coveralls.io/repos/github/thinkjs/think-memcache/badge.svg?branch=master)](https://coveralls.io/github/thinkjs/think-memcache?branch=master)
